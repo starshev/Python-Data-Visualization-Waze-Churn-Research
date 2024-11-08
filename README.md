@@ -1,11 +1,13 @@
-# Data Visualization with Python · Navigation App
+# Data Visualization with Python · Waze Churn Research
 
-**Context**
+### Project Overview
+Conducted exploratory data analysis (EDA) and created visualizations to support a churn analysis project for the Waze navigation app. The project included data cleaning and structuring, followed by visualizations to identify trends and insights related to user retention.
 
-The analytics team is asked for an assistance with EDA and data visualization within the churn project for a Navigation App.
+### Key Skills
+EDA and data cleaning with Pandas, data visualization with Seaborn and Matplotlib, Python programming.
 
-**Skills**
+### Описание проекта
+Проведён исследовательский анализ данных и созданы визуализации для поддержки проекта по анализу оттока пользователей в навигационном приложении Waze. Проект включал очистку и структурирование данных, а также создание визуализаций для выявления трендов и инсайтов, связанных с удержанием пользователей.
 
-EDA and Data Cleaning with Pandas  
-Data Visualization with Seaborn and Matplotlib   
-Python programming  
+### Ключевые навыки
+Исследовательский анализ данных и очистка данных с использованием Pandas, визуализация данных с использованием Seaborn и Matplotlib, программирование на Python.
