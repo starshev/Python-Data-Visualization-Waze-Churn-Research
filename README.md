@@ -6,7 +6,7 @@ Conduct exploratory data analysis (EDA) and create visualizations to support a c
 ### Skills  
 EDA and data cleaning with Pandas, data visualization with Seaborn and Matplotlib, Python programming, communication of insights.
 
-# Визуализация данных с использованием Python для анализа оттока пользователей
+# Визуализация данных с использованием Python для анализа оттока пользователей навигационного приложения
 
 ### Задача  
 Провести исследовательский анализ данных и создать визуализации в рамках проекта по анализу оттока пользователей в навигационном приложении. Сфокусироваться на очистке и структурировании данных, а затем — на визуальном исследовании трендов и инсайтов, связанных с оттоком / удержанием пользователей.
